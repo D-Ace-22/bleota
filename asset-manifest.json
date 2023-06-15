@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bleota/static/css/main.7e6de23a.chunk.css",
+    "main.js": "/bleota/static/js/main.e0bb4407.chunk.js",
+    "main.js.map": "/bleota/static/js/main.e0bb4407.chunk.js.map",
+    "runtime-main.js": "/bleota/static/js/runtime-main.edf1d00c.js",
+    "runtime-main.js.map": "/bleota/static/js/runtime-main.edf1d00c.js.map",
+    "static/js/2.ddd56c7c.chunk.js": "/bleota/static/js/2.ddd56c7c.chunk.js",
+    "static/js/2.ddd56c7c.chunk.js.map": "/bleota/static/js/2.ddd56c7c.chunk.js.map",
+    "index.html": "/bleota/index.html",
+    "precache-manifest.b687312ecd91776df3ef5f2d5b48a797.js": "/bleota/precache-manifest.b687312ecd91776df3ef5f2d5b48a797.js",
+    "service-worker.js": "/bleota/service-worker.js",
+    "static/css/main.7e6de23a.chunk.css.map": "/bleota/static/css/main.7e6de23a.chunk.css.map",
+    "static/js/2.ddd56c7c.chunk.js.LICENSE.txt": "/bleota/static/js/2.ddd56c7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edf1d00c.js",
+    "static/js/2.ddd56c7c.chunk.js",
+    "static/css/main.7e6de23a.chunk.css",
+    "static/js/main.e0bb4407.chunk.js"
+  ]
+}
